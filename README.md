@@ -49,8 +49,5 @@ En raison de contraintes techniques liées à la machine Atari 1040 ST, notammen
 
 ### Processus de création des images
 
-Les images ont été créées en pixel art avec Photoshop, puis converties en langage C
-
-à l’aide de Claude afin d’être intégrées au programme.
-
+Les images ont été créées en pixel art sur Photoshop, puis converties en langage C à l’aide de Claude.
 
