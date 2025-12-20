@@ -44,10 +44,17 @@ En raison de contraintes techniques liées à la machine Atari 1040 ST, notammen
 - Phase de jeu
 
 - Séquence de fin / explosion
-  
-  
+
+
 
 ### Processus de création des images
 
 Les images ont été créées en pixel art sur Photoshop, puis converties en langage C à l’aide de Claude.
+
+
+
+### Référence d’image
+
+LSD: Dream Emulator, réalisé par Osamu Sato, Asmik Ace Entertainment, 1998.
+
 
